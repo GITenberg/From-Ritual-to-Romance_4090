@@ -1,0 +1,37 @@
+_repo: From-Ritual-to-Romance_4090
+creator:
+  author:
+    agent_name: Weston, Jessie L. (Jessie Laidlay)
+    alias: Weston, Jessie Laidlay
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '1384'
+    url: http://www.gutenberg.org/2009/agents/1384
+    wikipedia: http://en.wikipedia.org/wiki/Jessie_Weston
+description: "From Ritual to Romance is a 1920 book written by Jessie L. Weston. The\
+  \ work is notable for being mentioned by T. S. Eliot in the notes to his poem, The\
+  \ Waste Land:\n\nNot only the title, but the plan and a good deal of the incidental\
+  \ symbolism of the poem were suggested by Miss Jessie L. Weston's book.\n\nWeston's\
+  \ book is an academic examination of the roots of the King Arthur legends and seeks\
+  \ to make connections between the early pagan elements and the later Christian influences.\
+  \ The book's main focus is on the Holy Grail tradition and its influence, particularly\
+  \ the Wasteland motif. The origins of Weston's book are in James George Frazer's\
+  \ seminal work on folklore, magic and religion, The Golden Bough (1890), and in\
+  \ the works of Jane Ellen Harrison.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4090'
+  wikidata: Q5505497
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Romances -- History and criticism'
+- !lcsh 'Grail -- Legends -- History and criticism'
+title: From Ritual to Romance
+url: http://www.gutenberg.org/ebooks/4090
+wikipedia:
+- https://en.wikipedia.org/wiki/From_Ritual_to_Romance
