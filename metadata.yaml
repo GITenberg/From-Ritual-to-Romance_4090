@@ -1,5 +1,5 @@
 _repo: From-Ritual-to-Romance_4090
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,6 +37,7 @@ subjects:
 - !lcc 'PN'
 - !lcsh 'Romances -- History and criticism'
 - !lcsh 'Grail -- Legends -- History and criticism'
+- GITenberg
 title: From Ritual to Romance
 url: http://www.gutenberg.org/ebooks/4090
 wikipedia:
